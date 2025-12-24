@@ -1,0 +1,16 @@
+{
+  "name": "com.denizyanar.senseengine",
+  "version": "1.0.0",
+  "displayName": "Sense Engine",
+  "description": "Sense Engine is a wrapper for all game effects inspired by FEEL plugin from Asset Store",
+  "unity": "6000.3",
+  "unityRelease": "2f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "author": {
+    "name": "Deniz",
+    "email": "yanard18@gmail.com"
+  }
+}
+
